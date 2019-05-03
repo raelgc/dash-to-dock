@@ -15,3 +15,5 @@ click-action='focus-or-previews'
 shift-click-action='launch'
 middle-click-action='launch'
 shift-middle-click-action='minimize'
+show-apps-at-top=true
+isolate-monitors=true
